@@ -1,14 +1,12 @@
 # Angular2
 
-Basic version of 5 min quickstart, done in TypeScript accoring to [this](https://angular.io/docs/ts/latest/quickstart.html) tutorial. 
-
 To run this app: 
 
 1. `npm install`
 2. `npm start`
 
-
-Questions
- 
-1. Should we store JS files in repo ?
-2. 
+# Chapter 1 
+* one-way data binding - same as *Angular 1.x*
+* *ES2015* multiline string with backtick *`*
+* new *ngModel* directive syntax `[(ngModel)]="hero.name"`
+* *TypeScript* - interface as ligthweigth typechecking 
