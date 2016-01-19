@@ -1,6 +1,6 @@
 # Angular2
 
-To run this app: 
+To setup and run this app: 
 
 1. `npm install`
 2. `npm start`
@@ -19,4 +19,11 @@ To run this app:
  * styles in `@Compontent` notation :]
  * event binding via `(click)="onSelect(hero)"`
  * property binding using `[]` like `[class.selected]="hero === selectedHero"`
+ 
+ #Chapter 3
+ * naming conventions - kebak case (with lowdash)
+ * declatarive inputs decorator- `inputs: ['hero']`
+ * `directives` metadata
+ 
+ 
  
