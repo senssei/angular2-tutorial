@@ -21,9 +21,14 @@ To setup and run this app:
  * property binding using `[]` like `[class.selected]="hero === selectedHero"`
  
  #Chapter 3
- * naming conventions - kebak case (with lowdash)
- * declatarive inputs decorator- `inputs: ['hero']`
- * `directives` metadata
+ * naming conventions - *kebak case* (with lowdash)
+ * declatarive inputs decorator - `inputs: ['hero']` 
+ * a `directives` metadata
  
- 
- 
+  #Chapter 4
+ * *DI container* - `Injectable` interface  
+ * `providers` array - declarative *DI*
+ * `constructor` pattern vs *event attach*
+ * *lifecycle* hook - `ngOnInit`
+ * using ES2015 `Promise` in services
+ * arrow functions from *ES2015*
